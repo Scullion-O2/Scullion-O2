@@ -26,5 +26,5 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 
 # My YouTube Videos
-<!-- YT_VIDEO_LIST:START -->
-<!-- YT_VIDEO_LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

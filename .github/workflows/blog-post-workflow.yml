@@ -3,13 +3,17 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-yt:
     name: Update this repo's README with latest videos
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull into dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YT_VIDEO_LIST"
           feed-list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCOEqE-ZLoGthDdBXI-G0PeA"
