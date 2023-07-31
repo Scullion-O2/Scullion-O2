@@ -1,7 +1,7 @@
 # How's it going, I'm Odhrán 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Scullion-O2&show_icons=true&theme=synthwave">
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scullion-O2&layout=compact">
-<p>   </p>
+<p>    </p>
 
 # Coding Languages
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
