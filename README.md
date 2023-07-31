@@ -27,4 +27,9 @@
 
 # My YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Black Ops 4: Classified - Zombies Morse Code Song Easter Egg](https://www.youtube.com/watch?v=W1R4aa2HLUM)
+- [PYKE SUPPORT PENTAKILL | League of Legends](https://www.youtube.com/watch?v=xIMheNmoBgU)
+- [WARWICK | CRIT AND LIFESTEAL PENTAKILL!](https://www.youtube.com/watch?v=iauqRPMD26Q)
+- [UFC® 2 - 10 Second Knockout](https://www.youtube.com/watch?v=9Q-0yBXmTj4)
+- [UFC® 2 - Committing a murder!](https://www.youtube.com/watch?v=gmySctrebo8)
 <!-- BLOG-POST-LIST:END -->
