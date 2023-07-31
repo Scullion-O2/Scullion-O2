@@ -1,6 +1,6 @@
 # How's it going, I'm Odhrán 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Scullion-O2&show_icons=true&theme=synthwave">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scullion-O2&layout=compact">
+<img width="47%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Scullion-O2&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Scullion-O2&layout=compact)">
 <p>    </p>
 
 # Coding Languages
