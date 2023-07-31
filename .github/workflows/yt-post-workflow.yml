@@ -1,0 +1,15 @@
+name: Latest YT Video Workflow
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-yt:
+    name: Update this repo's README with latest videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Scullion-O2/yt-post-workflow@master
+        with:
+          comment_tag_name: "YT_VIDEO_LIST"
+          feed-list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCOEqE-ZLoGthDdBXI-G0PeA"
