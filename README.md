@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Scullion-O2.Scullion-O2&left_color=purple&right_color=violet&left_text=Total%20Views">
 </p>
-<img align="left" width="47%" src="https://github-readme-stats-personal-ebon.vercel.app/api?username=Scullion-O2&show_icons=true&theme=synthwave">
+<img align="left" width="47%" src="https://github-readme-stats-scullion-o2.vercel.app/api?username=Scullion-O2&show_icons=true&theme=synthwave">
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut">
 <p>    </p>
 
