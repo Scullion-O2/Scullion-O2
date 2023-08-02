@@ -2,7 +2,7 @@
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+there%2C+Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <img align="left" width="47%" src="https://github-readme-stats-scullion-o2.vercel.app/api?username=Scullion-O2&show_icons=true&theme=synthwave">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scullion-O2&layout=donut">
 <p>    </p>
 <div align="center">
 
